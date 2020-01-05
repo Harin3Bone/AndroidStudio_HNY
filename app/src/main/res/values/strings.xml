@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Happy New Year</string>
+    <string name="todo">TODO</string>
+    <string name="love">Love</string>
+    <string name="career">Career</string>
+    <string name="preview">Preview</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="clear">Clear</string>
+    <string name="back">Back</string>
+    <string name="enter">Enter</string>
+    <string name="registration">Registration</string>
+    <string name="result">Result</string>
+    <string name="wish">Wish</string>
+    <string name="exit">Exit</string>
+    <string name="happy_new_year">HAPPY NEW YEAR</string>
+</resources>
